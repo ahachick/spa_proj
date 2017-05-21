@@ -1,0 +1,4 @@
+.DS_Store
+design/*
+web/assets/node_modules/*
+web/assets/images/product/*

@@ -1,0 +1,27 @@
+.mod-about .container{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.mod-about .mod-title {
+	margin-top: 40px;
+	text-align: center;
+	font-size: 24px;
+}
+
+.mod-about .mod-article {
+	margin-top: 20px;
+	margin-bottom: 40px;
+	padding: 0 20px;
+	font-size: 18px;
+	line-height: 24px;
+	text-align: justify;
+}
+
+.mod-cert .container {
+	max-width: 920px;
+	padding: 20px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+	background-color: #373D41;
+}

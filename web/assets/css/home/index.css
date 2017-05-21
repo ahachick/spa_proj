@@ -1,0 +1,256 @@
+.mod-banner {
+    position: relative;
+}
+
+.mod-banner .scroll-wrapper{
+    position: relative;
+	width: 100%;
+	overflow: hidden;
+}
+
+.mod-banner .banner-list {
+	width: 100%;
+	font-size: 0;
+}
+
+.mod-banner .banner-img {
+	display: inline-block;
+	background-size: cover;
+	border: 0;
+    width: 100%;
+    text-align: center;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: #224461;
+	background-repeat: no-repeat;
+}
+
+.mod-banner .banner-img{
+	width: 100%;
+	background-position: center center;
+	background-size: cover;
+}
+
+.mod-banner .banner-img .banner-desc {
+	padding: 10%;
+	font-size: 48px;
+	font-weight: 500;
+	line-height: 1;
+	color: #fff;
+}
+
+.mod-banner .banner-widget {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.mod-banner .banner-widget .widget-inner{
+	position: relative;
+	margin: 0 auto;
+	max-width: 1440px;
+}
+
+.mod-banner .banner-widget .widget-handle{
+	display: inline-block;
+	width: 40px;
+	height: 100%;
+	/*background-color: rgba(22, 26, 29, .6);*/
+}
+
+.mod-banner .banner-widget .widget-handle.prev{
+	float: left;
+}
+
+.mod-banner .banner-widget .widget-handle.prev{
+	float: right;
+}
+
+.mod-banner .widget-indicator {
+	position: absolute;
+	bottom: 5%;
+	width: 100%;
+	text-align: center;
+}
+
+.mod-banner .widget-indicator .indicator-item {
+	display: inline-block;
+}
+
+.mod-banner .widget-indicator .indicator-item i {
+	display: inline-block;
+    width: 15px;
+    height: 5px;
+    background-color: #fff;
+    background: rgba(255,255,255,.6);
+}
+
+.mod-banner .widget-indicator .indicator-item.active i {
+	background: #fff;
+	opacity: 1;
+}
+
+.mod-intro .banner-bottom {
+	/*background: #cddc39;*/
+	background: #373d41;
+}
+
+.mod-intro .banner-bottom h2 {
+	padding: 14px 0;
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+}
+
+.mod-service {
+	padding: 40px 0;
+	/*background-color: #edede9;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.mod-service .service-container {
+	max-width: 1000px;
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.mod-service h2{
+	margin-bottom: 40px;
+	font-size: 36px;
+    color: #224461;
+	text-align: center;
+}
+
+.mod-service .box {
+	margin-bottom: 10px;
+	padding: 20px;
+	color: #224461;
+	background-color: #fff;
+	transition: all .2s linear;
+	box-shadow: 0 3px 20px rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 3px 20px rgba(0,0,0,.1);
+}
+
+.mod-service .box:hover {
+	transform: translate3d(0, -2px, 0);
+	-webkit-transform: translate3d(0, -2px, 0);
+}
+
+.mod-service .box .box-img {
+	display: block;
+	margin: 0 auto;
+	width: 75px;
+	height: 75px;
+	background-color: #ddd;
+	border: 0;
+}
+
+.mod-service .box p {
+	font-size: 18px;
+	font-weight: initial;
+	text-align: center;
+}
+
+.mod-prod .slide-wrapper {
+	background-color: #373D41;
+}
+
+.mod-prod .slide-content {
+	margin: 0 auto;
+	max-width: 1440px;
+	font-size: 0;
+}
+
+.mod-prod .slide-content .slide-item {
+	display: inline-block;
+	position: relative;
+	color: #000;
+    font-size: 0;
+    text-align: center;
+	overflow:hidden;
+}
+
+.mod-prod .slide-content .slide-item .slide-item-img {
+	width: 100%;
+}
+
+.mod-prod .slide-content .slide-item .mask {
+	position: absolute;
+	top: 25%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	-webkit-transition: all .3s cubic-bezier(0.4, 0, 0.2, 1);
+	-moz-transition: all .3s cubic-bezier(0.4, 0, 0.2, 1);
+	transition: all .3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media screen and (min-width: 768px) {
+	.mod-prod .slide-content .slide-item:hover .mask {
+		top: 0;
+		background: rgba(22, 26, 29, .6);
+		transform: translateY(-45);
+	}
+
+	.mod-prod .slide-wrapper .slide-item:hover .mask .item-link {
+		opacity: 1;
+	}
+
+	.mod-prod .slide-wrapper .slide-item:hover .mask .item-link:hover {
+		color: #373D41;
+		background-color: #fff;
+	}
+}
+
+
+.mod-prod .slide-content .slide-item .mask .item-title{
+	position: absolute;
+	top: 20%;
+	width: 100%;
+	font-size: 28px; 
+	color: #fff;
+	text-align: center;
+}
+
+.mod-prod .slide-content .slide-item .mask .item-link{
+	position: absolute;
+	bottom: 15%;
+    left: 50%;
+    margin-left: -60px;
+	display: inline-block;
+    border: 1px solid #fff;
+    width: 120px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 14px;
+	text-align: center;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 62px;
+	opacity: 0;
+}
+
+.mod-prod .prod-sidebar {
+	display: inline-block;
+	padding-right: 40px;
+	border-right: 1px solid #fff;
+    border-right: 1px solid rgba(255,255,255,.3);
+}
+
+.mod-prod .prod-sidebar .prod-item a {
+    display: inline-block;
+	color: #fff;
+	font-size: 18px;
+    width: 100px;
+    height: 46px;
+    line-height: 46px;
+    text-align: center;
+}
+
+.mod-prod .prod-sidebar .prod-item a.active {
+	background-color: #69b008;
+	color: #fff;
+}

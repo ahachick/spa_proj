@@ -1,0 +1,22 @@
+{
+  "name": "spa-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs-loader": "^0.3.0",
+    "lodash": "^4.17.4",
+    "raw-loader": "^0.5.1",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "mustache": "^2.3.0"
+  }
+}
