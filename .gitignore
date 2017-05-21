@@ -2,3 +2,4 @@
 design/*
 web/assets/node_modules/*
 web/assets/images/product/*
+server/node_modules/*
