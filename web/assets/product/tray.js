@@ -16,13 +16,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-5X5/SPA-5X5.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-5X5/SPA-5X5.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-5X5/SPA-5X5.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-5X5/SPA-5X5.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-5X5/SPA-5X5-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-5X5/SPA-5X5-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-5X5/SPA-5X5F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-5X5/SPA-5X5F.jpg"
 			}
 		]
 	},
@@ -43,13 +43,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-6X5/SPA-6X5.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-6X5/SPA-6X5.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-6X5/SPA-6X5.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-6X5/SPA-6X5.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-6X5/SPA-6X5-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-6X5/SPA-6X5-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-6X5/SPA-6X5F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-6X5/SPA-6X5F.jpg"
 			}
 		]
 	},
@@ -70,13 +70,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-125BBP3/SPA-125BBP3.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-125BBP3/SPA-125BBP3.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-125BBP3/SPA-125BBP3.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-125BBP3/SPA-125BBP3.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-125BBP3/SPA-125BBP3-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-125BBP3/SPA-125BBP3-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-125BBP3/SPA-125BBP3F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-125BBP3/SPA-125BBP3F.jpg"
 			}
 		]
 	},
@@ -97,13 +97,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7X5X15/SPA-7X5X15.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7X5X15/SPA-7X5X15.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7X5X15/SPA-7X5X15.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7X5X15/SPA-7X5X15.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7X5X15/SPA-7X5X15-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7X5X15/SPA-7X5X15-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7X5X15/SPA-7X5X15F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7X5X15/SPA-7X5X15F.jpg"
 			}
 		]
 	},
@@ -124,13 +124,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7X5X28/SPA-7X5X28jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7X5X28/SPA-7X5X28.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7X5X28/SPA-7X5X28.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7X5X28/SPA-7X5X28.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7X5X28/SPA-7X5X28-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7X5X28/SPA-7X5X28-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7X5X28/SPA-7X5X28F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7X5X28/SPA-7X5X28F.jpg"
 			}
 		]
 	},
@@ -151,13 +151,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-8X5X15/SPA-8X5X15.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-8X5X15/SPA-8X5X15.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-8X5X15/SPA-8X5X15.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-8X5X15/SPA-8X5X15.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-8X5X15/SPA-8X5X15-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-8X5X15/SPA-8X5X15-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-8X5X15/SPA-8X5X15F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-8X5X15/SPA-8X5X15F.jpg"
 			}
 		]
 	},
@@ -178,13 +178,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-8X5X28/SPA-8X5X28.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-8X5X28/SPA-8X5X28.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-8X5X28/SPA-8X5X28.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-8X5X28/SPA-8X5X28.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-8X5X28/SPA-8X5X28-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-8X5X28/SPA-8X5X28-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-8X5X28/SPA-8X5X28F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-8X5X28/SPA-8X5X28F.jpg"
 			}
 		]
 	},
@@ -205,13 +205,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-8X7X20/SPA-8X7X20.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-8X7X20/SPA-8X7X20.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-8X7X20/SPA-8X7X20.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-8X7X20/SPA-8X7X20.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-8X7X20/SPA-8X7X20-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-8X7X20/SPA-8X7X20-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-8X7X20/SPA-8X7X20F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-8X7X20/SPA-8X7X20F.jpg"
 			}
 		]
 	},
@@ -232,8 +232,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-4CT/SPA-4CT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-4CT/SPA-4CT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-4CT/SPA-4CT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-4CT/SPA-4CT.jpg"
+			},
+			{
+				"lgImgUrl": "",
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-4CT/SPA-4CTF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-4CT/SPA-4CTF.jpg"
 			}
 		]
 	},
@@ -254,13 +259,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-500FT/SPA-500FT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-500FT/SPA-500FT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-500FT/SPA-500FT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-500FT/SPA-500FT.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-500FT/SPA-500FT-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-500FT/SPA-500FT-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-500FT/SPA-500FTF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-500FT/SPA-500FTF.jpg"
 			}
 		]
 	},
@@ -281,13 +286,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7540/SPA-7540.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7540/SPA-7540.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7540/SPA-7540.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7540/SPA-7540.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7540/SPA-7540-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7540/SPA-7540-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7540/SPA-7540F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7540/SPA-7540F.jpg"
 			}
 		]
 	},
@@ -308,13 +313,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7557/SPA-7557.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7557/SPA-7557.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7557/SPA-7557.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7557/SPA-7557.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-7557/SPA-7557-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-7557/SPA-7557-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-7557/SPA-7557F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-7557/SPA-7557F.jpg"
 			}
 		]
 	},
@@ -335,13 +340,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-30PETT/SPA-30PETT&LID.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-30PETT/SPA-30PETT&LID.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-30PETT/SPA-30PETT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-30PETT/SPA-30PETT.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-30PETT/SPA-30PETT&LID-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-30PETT/SPA-30PETT&LID-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-30PETT/SPA-30PETTF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-30PETT/SPA-30PETTF.jpg"
 			}
 		]
 	},
@@ -362,13 +367,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SSPA-PETT40/SSPA-PETT40.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SSPA-PETT40/SSPA-PETT40.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SSPA-PETT40/SSPA-PETT40.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SSPA-PETT40/SSPA-PETT40.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SSPA-PETT40/SSPA-PETT40-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SSPA-PETT40/SSPA-PETT40-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SSPA-PETT40/SSPA-PETT40F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SSPA-PETT40/SSPA-PETT40F.jpg"
 			}
 		]
 	},
@@ -389,13 +394,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-60PETT/SPA-60PETT&LID.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-60PETT/SPA-60PETT&LID.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-60PETT/SPA-60PETT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-60PETT/SPA-60PETT.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-60PETT/SPA-60PETT&LID-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-60PETT/SPA-60PETT&LID-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PET/SPA-60PETT/SPA-60PETTF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PET/SPA-60PETT/SPA-60PETTF.jpg"
 			}
 		]
 	},
@@ -416,8 +421,8 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PP/SPA-500PPT/SPA-500PPT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PP/SPA-500PPT/SPA-500PPT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PP/SPA-500PPT/SPA-500PPT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PP/SPA-500PPT/SPA-500PPT.jpg"
 			}
 		]
 	},
@@ -438,8 +443,8 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PP/SPA-700PPT/SPA-700PPT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PP/SPA-700PPT/SPA-700PPT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PP/SPA-700PPT/SPA-700PPT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PP/SPA-700PPT/SPA-700PPT.jpg"
 			}
 		]
 	},
@@ -460,13 +465,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PP/SPA-800PPT/SPA-800PPT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PP/SPA-800PPT/SPA-800PPT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PP/SPA-800PPT/SPA-800PPT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PP/SPA-800PPT/SPA-800PPT.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PP/SPA-800PPT/SPA-800PPT-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PP/SPA-800PPT/SPA-800PPT-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PP/SPA-800PPT/SPA-800PPTF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PP/SPA-800PPT/SPA-800PPTF.jpg"
 			}
 		]
 	},
@@ -487,8 +492,8 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PP/SPA-1000PPT/SPA-1000PPT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PP/SPA-1000PPT/SPA-1000PPT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PP/SPA-1000PPT/SPA-1000PPT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PP/SPA-1000PPT/SPA-1000PPT.jpg"
 			}
 		]
 	},
@@ -509,13 +514,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO2/SPA-AVO2.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO2/SPA-AVO2.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO2/SPA-AVO2.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO2/SPA-AVO2.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO2/SPA-AVO2-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO2/SPA-AVO2-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO2/SPA-AVO2F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO2/SPA-AVO2F.jpg"
 			}
 		]
 	},
@@ -536,29 +541,19 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO3/SPA-AVO3-CL.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO3/SPA-AVO3-CL.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO3/SPA-AVO3.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO3/SPA-AVO3.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO3/SPA-AVO3-CL-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO3/SPA-AVO3-CL-FV.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO3/SPA-AVO3-BL.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO3/SPA-AVO3-BL.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO3/SPA-AVO3-BL-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO3/SPA-AVO3-BL-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO3/SPA-AVO3F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO3/SPA-AVO3F.jpg"
 			}
 		]
 	},
 	{
-		"id": "SPA-AVO4-SML",
-		"name": "SPA-AVO4-SML",
+		"id": "SPA-AVO4SML",
+		"name": "SPA-AVO4SML",
 		"category": "Tray",
 		"subcategory": "Avocado Trays",
 		"desc": "Small avocado 4 pack tray/ Small 4 pack multi-purpose tray",
@@ -573,13 +568,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO4-SML/SPA-AVO4-SML.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO4-SML/SPA-AVO4-SML.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO4SML/SPA-AVO4SML.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO4SML/SPA-AVO4SML.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO4-SML/SPA-AVO4-SML-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO4-SML/SPA-AVO4-SML-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO4SML/SPA-AVO4SMLF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO4SML/SPA-AVO4SMLF.jpg"
 			}
 		]
 	},
@@ -600,13 +595,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO4LG/SPA-AVO4-LG.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO4LG/SPA-AVO4-LG.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO4LG/SPA-AVO4LG.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO4LG/SPA-AVO4LG.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/Avocado/SPA-AVO4LG/SPA-AVO4-LG-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/Avocado/SPA-AVO4LG/SPA-AVO4-LG-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-AVO4LG/SPA-AVO4LGF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-AVO4LG/SPA-AVO4LGF.jpg"
 			}
 		]
 	},
@@ -627,13 +622,13 @@ var G_catalog = [
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-6PACKTRAY/SPA-6PACKTRAY.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-6PACKTRAY/SPA-6PACKTRAY.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-6PACKTRAY/SPA-6PACKTRAY.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-6PACKTRAY/SPA-6PACKTRAY.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Trays/PET/SPA-6PACKTRAY/SPA-6PACKTRAY-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Trays/PET/SPA-6PACKTRAY/SPA-6PACKTRAY-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/Avocado/SPA-6PACKTRAY/SPA-6PACKTRAYF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/Avocado/SPA-6PACKTRAY/SPA-6PACKTRAYF.jpg"
 			}
 		]
 	}

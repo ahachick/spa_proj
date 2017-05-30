@@ -16,8 +16,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-125BBP3/SPA-125BBP3.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-125BBP3/SPA-125BBP3.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-125BBP1/SPA-125BBP1.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-125BBP1/SPA-125BBP1.jpg"
+			},
+			{
+				"lgImgUrl": "",
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-125BBP1/SPA-125BBP1F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-125BBP1/SPA-125BBP1F.jpg"
 			}
 		]
 	},
@@ -38,13 +43,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-125BBP3/SPA-125BBP3.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-125BBP3/SPA-125BBP3.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-125BBP3/SPA-125BBP3.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-125BBP3/SPA-125BBP3.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-125BBP3/SPA-125BBP3-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-125BBP3/SPA-125BBP3-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-125BBP3/SPA-125BBP3F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-125BBP3/SPA-125BBP3F.jpg"
 			}
 		]
 	},
@@ -65,13 +70,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-250CT2/SPA-250CT2.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-250CT2/SPA-250CT2.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-250CT2/SPA-250CT2.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-250CT2/SPA-250CT2.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-250CT2/SPA-250CT2-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-250CT2/SPA-250CT2-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-250CT2/SPA-250CT2F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-250CT2/SPA-250CT2F.jpg"
 			}
 		]
 	},
@@ -92,13 +97,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-AUT250/SPA-AUT250.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-AUT250/SPA-AUT250.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-AUT250/SPA-AUT250.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-AUT250/SPA-AUT250.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-AUT250/SPA-AUT250-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-AUT250/SPA-AUT250-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-AUT250/SPA-AUT250F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-AUT250/SPA-AUT250F.jpg"
 			}
 		]
 	},
@@ -119,13 +124,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/MP-250/MP-250.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/MP-250/MP-250.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/MP-250/MP-250.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/MP-250/MP-250.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/MP-250/076A1338.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/MP-250/076A1338.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/MP-250/MP-250F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/MP-250/MP-250F.jpg"
 			}
 		]
 	},
@@ -146,13 +151,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-250FLAT/SPA-250FLAT.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-250FLAT/SPA-250FLAT.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-250FLAT/SPA-250FLAT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-250FLAT/SPA-250FLAT.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-250FLAT/SPA-250FLAT-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-250FLAT/SPA-250FLAT-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-250FLAT/SPA-250FLATF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-250FLAT/SPA-250FLATF.jpg"
 			}
 		]
 	},
@@ -173,13 +178,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2PCEGRP/SPA-2PCEGRP.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2PCEGRP/SPA-2PCEGRP.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2PCEGRP/SPA-2PCEGRP.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2PCEGRP/SPA-2PCEGRP.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2PCEGRP/SPA-2PCEGRP-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2PCEGRP/SPA-2PCEGRP-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2PCEGRP/SPA-2PCEGRPF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2PCEGRP/SPA-2PCEGRPF.jpg"
 			}
 		]
 	},
@@ -200,13 +205,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HL.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HL.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HL.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HL.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HL-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HL-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HLF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2PCEGRP-HL/SPA-2PCEGRP-HLF.jpg"
 			}
 		]
 	},
@@ -227,19 +232,19 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-LH400/SPA-LH400.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-LH400/SPA-LH400.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-LH400/SPA-LH400.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-LH400/SPA-LH400.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-LH400/SPA-LH400-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-LH400/SPA-LH400-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-LH400/SPA-LH400F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-LH400/SPA-LH400F.jpg"
 			}
 		]
 	},
-	"SPA-2PCE": {
-		"id": "SPA-2PCE",
-		"name": "SPA-2PCE",
+	"SPA-2PCEKIWI": {
+		"id": "SPA-2PCEKIWI",
+		"name": "SPA-2PCEKIWI",
 		"category": "Clamshell",
 		"subcategory": "",
 		"desc": "2-piece kiwi fruit container for hand pack",
@@ -254,13 +259,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2PCE/SPA-2PCE.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2PCE/SPA-2PCE.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2PCEKIWI/SPA-2PCEKIWI.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2PCEKIWI/SPA-2PCEKIWI.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2PCE/SPA-2PCE-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2PCE/SPA-2PCE-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2PCEKIWI/SPA-2PCEKIWIF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2PCEKIWI/SPA-2PCEKIWIF.jpg"
 			}
 		]
 	},
@@ -281,13 +286,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-400KFP/SPA-400KFP.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-400KFP/SPA-400KFP.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-400KFP/SPA-400KFP.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-400KFP/SPA-400KFP.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-400KFP/SPA-400KFP-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-400KFP/SPA-400KFP-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-400KFP/SPA-400KFPF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-400KFP/SPA-400KFPF.jpg"
 			}
 		]
 	},
@@ -308,8 +313,8 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-600KFP/SPA-600KFP.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-600KFP/SPA-600KFP.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-600KFP/SPA-600KFP.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-600KFP/SPA-600KFP.jpg"
 			}
 		]
 	},
@@ -330,13 +335,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-800KFP/SPA-800KFP.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-800KFP/SPA-800KFP.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-800KFP/SPA-800KFP.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-800KFP/SPA-800KFP.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-800KFP/SPA-800KFP-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-800KFP/SPA-800KFP-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-800KFP/SPA-800KFPF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-800KFP/SPA-800KFPF.jpg"
 			}
 		]
 	},
@@ -357,13 +362,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-450A/SPA-450A.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-450A/SPA-450A.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-450A/SPA-450A.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-450A/SPA-450A.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-450A/SPA-450A-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-450A/SPA-450A-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-450A/SPA-450AF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-450A/SPA-450AF.jpg"
 			}
 		]
 	},
@@ -384,13 +389,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-500A/SPA-500A.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-500A/SPA-500A.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-500A/SPA-500A.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-500A/SPA-500A.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-500A/SPA-500A-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-500A/SPA-500A-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-500A/SPA-500AF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-500A/SPA-500AF.jpg"
 			}
 		]
 	},
@@ -411,13 +416,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-700A/SPA-700A.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-700A/SPA-700A.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-700A/SPA-700A.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-700A/SPA-700A.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-700A/SPA-700A-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-700A/SPA-700A-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-700A/SPA-700AF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-700A/SPA-700AF.jpg"
 			}
 		]
 	},
@@ -438,13 +443,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/MP-850/MP-850.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/MP-850/MP-850.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/MP-850/MP-850.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/MP-850/MP-850.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/MP-850/MP-850-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/MP-850/MP-850-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/MP-850/MP-850F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/MP-850/MP-850F.jpg"
 			}
 		]
 	},
@@ -465,13 +470,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/MP-1000/MP-1000.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/MP-1000/MP-1000.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/MP-1000/MP-1000.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/MP-1000/MP-1000.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/MP-1000/MP-1000-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/MP-1000/MP-1000-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/MP-1000/MP-1000F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/MP-1000/MP-1000F.jpg"
 			}
 		]
 	},
@@ -492,13 +497,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-1000A/SPA-1000A.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-1000A/SPA-1000A.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-1000A/SPA-1000A.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-1000A/SPA-1000A.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-1000A/SPA-1000A-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-1000A/SPA-1000A-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-1000A/SPA-1000AF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-1000A/SPA-1000AF.jpg"
 			}
 		]
 	},
@@ -519,13 +524,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-1500/SPA-1500.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-1500/SPA-1500.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-1500/SPA-1500.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-1500/SPA-1500.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-1500/SPA-1500-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-1500/SPA-1500-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-1500/SPA-1500F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-1500/SPA-1500F.jpg"
 			}
 		]
 	},
@@ -546,13 +551,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-1550/SPA-1550.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-1550/SPA-1550.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-1550/SPA-1550.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-1550/SPA-1550.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-1550/SPA-1550-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-1550/SPA-1550-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-1550/SPA-1550F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-1550/SPA-1550F.jpg"
 			}
 		]
 	},
@@ -573,13 +578,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2KG/SPA-2KG.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2KG/SPA-2KG.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2KG/SPA-2KG.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2KG/SPA-2KG.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-2KG/SPA-2KG-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-2KG/SPA-2KG-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-2KG/SPA-2KGF.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-2KG/SPA-2KGF.jpg"
 			}
 		]
 	},
@@ -600,13 +605,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-SC100/SPA-SC100.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-SC100/SPA-SC100.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-SC100/SPA-SC100.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-SC100/SPA-SC100.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-SC100/SPA-SC100-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-SC100/SPA-SC100-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-SC100/SPA-SC100F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-SC100/SPA-SC100F.jpg"
 			}
 		]
 	},
@@ -627,13 +632,13 @@ var G_catalog = {
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-SC500/SPA-SC500.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-SC500/SPA-SC500.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-SC500/SPA-SC500.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-SC500/SPA-SC500.jpg"
 			},
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-SC500/SPA-SC500-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-SC500/SPA-SC500-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Clamshells/SPA-SC500/SPA-SC500F.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Clamshells/SPA-SC500/SPA-SC500F.jpg"
 			}
 		]
 	},

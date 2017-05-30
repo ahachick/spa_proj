@@ -754,7 +754,7 @@ $.extend(exports, {
 			}
 
 			var thumbnailUrl = $this.find('img').attr('src');
-			var detailUrl = thumbnailUrl.replace(/300x200/, '800x533');
+			var detailUrl = thumbnailUrl.replace('product-360x240', 'product-720x480');
 
 			$detailImg.attr('src', detailUrl);
 		});
