@@ -1,132 +1,86 @@
 var G_catalog = [
 	{
-		"id": "SPA-DT23",
-		"name": "SPA-DT23",
-		"category": "Tub",
+		"id": "SPA-10PP",
+		"name": "SPA-10PP",
+		"category": "Cup",
 		"subcategory": "",
-		"desc": "23mm depth dessert tub with matching over capping lid",
+		"desc": "10 Ounce PP cup",
 		"dimensions": {
-			"height": 15,
-			"diameter": ""
+			"height": "97.5mm",
+			"diameter": "80mm"
 		},
-		"material": "Black colour/customised colour",
-		"QTY": ["1700pcs/carton", "45ctns/pallet", "76,500pcs/pallet"],
+		"material": "Clear colour/customised colour",
+		"QTY": ["1000pcs/carton", "40ctns/pallet", "40000pcs/pallet"],
 		"recommand": [],
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-DT23/SPA-DT23.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-DT23/SPA-DT23.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SPA-DT23/SPA-DT23-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SPA-DT23/SPA-DT23-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Cups/SPA-10PP/SPA-10PP.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Cups/SPA-10PP/SPA-10PP.jpg"
 			}
 		]
 	},
 	{
-		"id": "SSPA-5x5",
-		"name": "SSPA-5x5",
-		"category": "Tub",
+		"id": "SPA-10PET",
+		"name": "SPA-10PET",
+		"category": "Cup",
 		"subcategory": "",
-		"desc": "5x5 multi-purpose tray",
+		"desc": "10 Ounce PET cup",
 		"dimensions": {
-			"height": 15,
-			"diameter": ""
+			"height": "97.5mm",
+			"diameter": "80mm"
 		},
-		"material": "Black colour/customised colour",
-		"QTY": ["1700pcs/carton", "45ctns/pallet", "76,500pcs/pallet"],
+		"material": "Clear colour/customised colour",
+		"QTY": ["1000pcs/carton", "40ctns/pallet", "40000pcs/pallet"],
 		"recommand": [],
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Cups/SPA-10PET/SPA-10PET.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Cups/SPA-10PET/SPA-10PET.jpg"
 			}
 		]
 	},
 	{
-		"id": "SSPA-5x5",
-		"name": "SSPA-5x5",
-		"category": "Tub",
+		"id": "SPA-15PP",
+		"name": "SPA-15PP",
+		"category": "Cup",
 		"subcategory": "",
-		"desc": "5x5 multi-purpose tray",
+		"desc": "10 Ounce PP cup",
 		"dimensions": {
-			"height": 15,
-			"diameter": ""
+			"height": "120mm",
+			"diameter": "89.5mm"
 		},
-		"material": "Black colour/customised colour",
-		"QTY": ["1700pcs/carton", "45ctns/pallet", "76,500pcs/pallet"],
+		"material": "Clear colour/customised colour",
+		"QTY": ["1000pcs/carton", "30ctns/pallet", "30000pcs/pallet"],
 		"recommand": [],
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Cups/SPA-15PP/SPA-15PP.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Cups/SPA-15PP/SPA-15PP.jpg"
 			}
 		]
 	},
 	{
-		"id": "SSPA-5x5",
-		"name": "SSPA-5x5",
-		"category": "Tub",
+		"id": "SPA-15PET",
+		"name": "SPA-15PET",
+		"category": "Cup",
 		"subcategory": "",
-		"desc": "5x5 multi-purpose tray",
+		"desc": "10 Ounce PP cup",
 		"dimensions": {
-			"height": 15,
-			"diameter": ""
+			"height": "97.5mm",
+			"diameter": "80mm"
 		},
-		"material": "Black colour/customised colour",
-		"QTY": ["1700pcs/carton", "45ctns/pallet", "76,500pcs/pallet"],
+		"material": "Clear colour/customised colour",
+		"QTY": ["1000pcs/carton", "30ctns/pallet", "30000pcs/pallet"],
 		"recommand": [],
 		"gallery": [
 			{
 				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg"
+				"mdImgUrl": "../../assets/images/product/product-720x480/Cups/SPA-15PET/SPA-15PET.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Cups/SPA-15PET/SPA-15PET.jpg"
 			}
 		]
 	},
-	{
-		"id": "SSPA-5x5",
-		"name": "SSPA-5x5",
-		"category": "Tub",
-		"subcategory": "",
-		"desc": "5x5 multi-purpose tray",
-		"dimensions": {
-			"height": 15,
-			"diameter": ""
-		},
-		"material": "Black colour/customised colour",
-		"QTY": ["1700pcs/carton", "45ctns/pallet", "76,500pcs/pallet"],
-		"recommand": [],
-		"gallery": [
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5.jpg"
-			},
-			{
-				"lgImgUrl": "",
-				"mdImgUrl": "../../assets/images/product/800x533/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg",
-				"smImgUrl": "../../assets/images/product/300x200/Clamshells/SSPA-5x5/SSPA-5x5-FV.jpg"
-			}
-		]
-	}
 ];

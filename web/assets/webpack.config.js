@@ -12,6 +12,7 @@ module.exports = {
 	module: {
 		loaders: [
 			{ test: /\.mst$/, loader: 'raw-loader' },
+			{ test: /\.tpl$/, loader: 'raw-loader' },
 		]
 	}
 };

@@ -1,5 +1,4 @@
-var M = require('mustache');
-var template = require('./template/content.mst');
+var template = require('./template/content.tpl');
 
 $.extend(exports, {
 		
@@ -114,11 +113,13 @@ $.extend(exports, {
 		var self = this;
 		var $detail = this.$('.J-detail');
 
-		$detail.html(M.render(template, $.extend(self.product, {
-			showQTY: function () {
-				return self.product.QTY && self.product.QTY.length;
-			}
-		})));
+		// $detail.html(M.render(template, $.extend(self.product, {
+		// 	showQTY: function () {
+		// 		return self.product.QTY && self.product.QTY.length;
+		// 	}
+		// })));
+
+		$detail.html(_.template(template)(self.product));
 
 	},
 
