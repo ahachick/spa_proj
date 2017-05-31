@@ -476,6 +476,28 @@ var G_catalog = [
 		]
 	},
 	{
+		"id": "SPA-800PPT",
+		"name": "SPA-800PPT",
+		"category": "Tray",
+		"subcategory": "Prepared meal trays",
+		"desc": " 800ml Prepared meal tray with smooth top sealed flange",
+		"dimensions": {
+			"length": 185,
+			"width": 136,
+			"height": 50
+		},
+		"material": "Clear colour/ customised colour",
+		"QTY": ["760pcs/carton", "24ctns/pallet", "18,240pcs/pallet"],
+		"recommand": [],
+		"gallery": [
+			{
+				"lgImgUrl": "",
+				"mdImgUrl": "../../assets/images/product/product-720x480/Trays/PP/SPA-800PPT/SPA-800PPT.jpg",
+				"smImgUrl": "../../assets/images/product/product-360x240/Trays/PP/SPA-800PPT/SPA-800PPT.jpg"
+			}
+		]
+	},
+	{
 		"id": "SPA-1000PPT",
 		"name": "SPA-1000PPT",
 		"category": "Tray",
